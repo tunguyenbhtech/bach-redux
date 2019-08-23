@@ -20,7 +20,7 @@
     "defaults"
   ],
   "homepage": "https://github.com/TrueFit/bach-redux#readme",
-  "dependencies": {
+  "peerDependencies": {
     "@truefit/bach": "^1.0.0",
     "react": "^16.8.6",
     "react-redux": "^7.1.0",
